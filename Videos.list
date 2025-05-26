@@ -1,1 +1,7 @@
-DOMAIN-SUFFIX,netflix.com
+# Netflix
+payload:
+- DOMAIN-SUFFIX,netflix.com
+- DOMAIN-SUFFIX,nflxso.net
+- DOMAIN-SUFFIX,nflxext.com
+- DOMAIN-SUFFIX,onetrust.com
+- DOMAIN-SUFFIX,nflximg.net
