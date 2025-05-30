@@ -1,8 +1,8 @@
 payload:
+- DOMAIN-SUFFIX,imgur.com
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,githubassets.com
 - DOMAIN-SUFFIX,octocaptcha.com
 - DOMAIN-SUFFIX,github.io
-- DOMAIN-SUFFIX,imgur.com
 - DOMAIN-SUFFIX,amemv.com
