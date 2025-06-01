@@ -1,8 +1,9 @@
-# Netflix
 payload:
+# Netflix
 - DOMAIN-SUFFIX,netflix.com
 - DOMAIN-SUFFIX,nflxso.net
 - DOMAIN-SUFFIX,nflxext.com
 - DOMAIN-SUFFIX,onetrust.com
 - DOMAIN-SUFFIX,nflximg.net
+# YouTube
 - DOMAIN-SUFFIX,youtube-nocookie.com
