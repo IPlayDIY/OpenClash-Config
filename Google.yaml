@@ -1,6 +1,7 @@
 payload:
 # Netflix
 - DOMAIN-SUFFIX,google.com
+- DOMAIN-SUFFIX,google.com.sg
 - DOMAIN-SUFFIX,ytimg.com #图片托管
 - DOMAIN-SUFFIX,googleusercontent.com
 - DOMAIN-SUFFIX,gravatar.com #头像
