@@ -6,5 +6,5 @@ payload:
 - DOMAIN-SUFFIX,onetrust.com
 - DOMAIN-SUFFIX,nflximg.net
 # YouTube
-- DOMAIN-SUFFIX,youtube-nocookie.com
 - DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,youtube-nocookie.com
