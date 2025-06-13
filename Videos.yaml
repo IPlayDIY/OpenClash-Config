@@ -7,3 +7,4 @@ payload:
 - DOMAIN-SUFFIX,nflximg.net
 # YouTube
 - DOMAIN-SUFFIX,youtube-nocookie.com
+- DOMAIN-SUFFIX,youtube.com
