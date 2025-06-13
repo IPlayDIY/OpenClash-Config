@@ -1,5 +1,5 @@
 payload:
-# Netflix
+# Google
 - DOMAIN-SUFFIX,google.com
 - DOMAIN-SUFFIX,google.com.sg
 - DOMAIN-SUFFIX,googleapis.com
@@ -7,3 +7,4 @@ payload:
 - DOMAIN-SUFFIX,gstatic.com #静态文件托管
 - DOMAIN-SUFFIX,googleusercontent.com
 - DOMAIN-SUFFIX,gravatar.com #头像
+- DOMAIN-SUFFIX,ipify.org
