@@ -1,5 +1,6 @@
 payload:
-# ChatGPT
+# ChatGP
+- DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
 # Netflix
 - DOMAIN-SUFFIX,cursor.com
