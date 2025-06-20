@@ -5,6 +5,7 @@ payload:
 - DOMAIN-SUFFIX,google.com.sg
 - DOMAIN-SUFFIX,google.co.jp
 - DOMAIN-SUFFIX,googleapis.com
+- DOMAIN-SUFFIX,google-analytics.com
 - DOMAIN-SUFFIX,ytimg.com #图片托管
 - DOMAIN-SUFFIX,gstatic.com #静态文件托管
 - DOMAIN-SUFFIX,googleusercontent.com
