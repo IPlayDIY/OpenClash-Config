@@ -5,4 +5,4 @@ payload:
 - DOMAIN-SUFFIX,oaistatic.com
 # Netflix
 - DOMAIN-SUFFIX,cursor.com
-- DOMAIN-SUFFIX,tg-telegram.com/
+- DOMAIN-SUFFIX,tg-telegram.com
