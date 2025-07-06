@@ -3,6 +3,7 @@ payload:
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
 - DOMAIN-SUFFIX,oaistatic.com
+- DOMAIN-SUFFIX,oaiusercontent.com
 # Netflix
 - DOMAIN-SUFFIX,cursor.com
 - DOMAIN-SUFFIX,telegram.org
